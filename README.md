@@ -30,7 +30,7 @@ Or select one of the playlists from the list below.
 <!-- prettier-ignore -->
 <table>
 	<thead>
-		<tr><th align="left">Category</th><th align="right">Channels</th><th align="left">Playlist</th></tr>
+		<tr><th align="left">Category11</th><th align="right">Channels</th><th align="left">Playlist</th></tr>
 	</thead>
 	<tbody>
 		<tr><td align="left">Auto</td><td align="right">13</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/auto.m3u</code></td></tr>
